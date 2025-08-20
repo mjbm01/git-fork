@@ -1,1 +1,3 @@
 this is train and learn fork in github
+
+change for learn and train how fork acn update via local repo
